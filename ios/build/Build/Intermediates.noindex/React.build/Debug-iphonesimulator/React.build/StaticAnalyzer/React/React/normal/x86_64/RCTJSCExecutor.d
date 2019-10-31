@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Executors/RCTJSCWrapper.h

@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTView.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/tester/Documents/GitHub/testCodePush/node_modules/react-native/React/Views/UIView+React.h
